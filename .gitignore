@@ -1,5 +1,5 @@
-.theos
+.theos/
 theos/
 obj/
-*.deb
+packages/
 _/
